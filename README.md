@@ -1,4 +1,4 @@
-# WannaCry3.0
+## WannaCry2.0 ( version 2 )
 Improvement of 'WannaCry' Virus project
 
 ## WannaCry Infections
